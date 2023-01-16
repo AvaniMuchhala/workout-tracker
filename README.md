@@ -13,7 +13,7 @@ Workout Tracker is a web app to help schedule and track workouts in order to mee
 <br>- [license](#license)
 
 ## Usage
-Heroku Link: https://avani-workout-tracker.herokuapp.com
+Heroku Link: https://workout-tracker-2023.herokuapp.com/
 
 Screenshot: 
 ![link](./assets/image.png)
