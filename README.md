@@ -13,6 +13,8 @@ Workout Tracker is a web app to help schedule and track workouts in order to mee
 <br>- [license](#license)
 
 ## Usage
+Video Demo: https://github.com/user-attachments/assets/afc16a25-41f9-497e-b5ba-8058e7f6801b
+
 Heroku Link: https://workout-tracker-2023.herokuapp.com/
 
 Screenshot: 
